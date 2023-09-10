@@ -1,4 +1,4 @@
-# I am Berk Gozek
+### Hi, I am Berk
 
 - 👋 Hi, I’m @BerkAlpGozek
 - 👀 I’m interested in Game and App Design
