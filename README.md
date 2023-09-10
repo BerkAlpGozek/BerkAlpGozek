@@ -1,3 +1,5 @@
+# I am Berk Gozek
+
 - 👋 Hi, I’m @BerkAlpGozek
 - 👀 I’m interested in Game and App Design 
 - 🌱 I’m currently learning SwiftUI
