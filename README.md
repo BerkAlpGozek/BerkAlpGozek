@@ -1,4 +1,4 @@
-### Hi, I am Berk
+### Hello There!
 
 👀&emsp; I’m interested in Game and App Design <br>
 🌱&emsp; I’m currently learning SwiftUI and Java<br>
