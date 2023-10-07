@@ -7,8 +7,6 @@
 💞️&emsp; I’m looking to collaborate on videogames and apps<br>
 📫&emsp; You can reach me from my [LinkedIn](https://www.linkedin.com/in/berkgozek) or [X](https://www.twitter.com/berkgozek)!<br>
 
-![donut.c](https://github.com/BerkGozek/BerkGozek/assets/144159613/8a90ccdd-abdc-475c-b986-91cfbe358995)
-
 <!---
 BerkAlpGozek/BerkAlpGozek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
